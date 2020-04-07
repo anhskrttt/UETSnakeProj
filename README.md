@@ -1,6 +1,7 @@
 # UETSnakeProj
 
 °˖✧◝(⁰▿⁰)◜✧˖°   WELCOME TO MY PROJECT   ☆*:.｡.o(≧▽≦)o.｡.:*☆
+
 Simple game using C++ and SDL2.
 
 Upgrading... Please be patient! (ﾉ´ヮ`)ﾉ*: ･ﾟ

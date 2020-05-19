@@ -40,9 +40,9 @@ https://www.youtube.com/watch?v=BpjX6KBRW_c
 - Replay by pressing r
 - Different music in the end
 - Effect sound: collect coin, touch enemies
-- Enemies choose random direction ()
+- Enemies choose random directions ()
 - Count point
-- Different spritesheet for different direction (left, right)
+- Different spritesheets for different directions (left, right)
 - main.cpp is easy to follow (init -> loadMedia -> (game-loop(handleEvent->update->render)) -> end)
 - Implementing inheritance, virtual function ()
 - Seperated files for different purposes

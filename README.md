@@ -14,12 +14,14 @@ This is a really simple game to play!
 - press r to replay
 
 ### Prerequisites
-
 SDL version 2.0.12 including:
+
+```
 - SDL2
 - SDL2_image
 - SDL2_mixer
 - SDL2_ttf
+```
 
 ### Installing
 
@@ -27,7 +29,10 @@ Contact me to get the zip file, so all you need to do is extracting file, findin
 
 ## Running the tests
 
-Check my youtube channel for the demo of the game: https://www.youtube.com/watch?v=BpjX6KBRW_c
+Check my youtube channel for the demo of the game:
+```
+https://www.youtube.com/watch?v=BpjX6KBRW_c
+```
 
 ### Features, coding style and deployment
 

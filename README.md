@@ -23,7 +23,7 @@ SDL version 2.0.12 including:
 
 ### Installing
 
-Contact me to get the zip file, so all you need to do is extract file and find the .exe and start enjoying your game :D
+Contact me to get the zip file, so all you need to do is extracting file, finding the .exe and start enjoying your game :D
 
 ## Running the tests
 

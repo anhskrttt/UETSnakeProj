@@ -9,7 +9,7 @@ This is a really simple game to play!
 - press any key to start
 - using your arrow keys, 
 - control a snake, 
-- and try to collect coin and strawberry, 
+- try to collect coin and strawberry, 
 - while avoid touching border and enemies
 - press r to replay
 

@@ -1,6 +1,6 @@
 # SnakeHead
 
-So I decided to make an interesting game Snake - yes, i mean, the typical one, the "Snake", but then, there were a few problems that the snake's tails did't move, so here i'm introducing, the totally new version of Snake : SNAKE-HEAD. Enjoy it, tadaaaa :>
+So I decided to make an interesting game Snake - yes, i mean, the typical one, the "Snake", but then, there were a few problems that the snake's tails did't move, so here i'm introducing, the total new version of Snake : SNAKE-HEAD. Enjoy it, tadaaaa :>
 
 ## Getting Started
 

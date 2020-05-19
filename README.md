@@ -5,7 +5,6 @@ So I decided to make an interesting game Snake - yes, i mean, the typical one, t
 ## Getting Started
 
 This is a really simple game to play!
-How to start the game:
 
 - press any key to start
 - using your arrow keys, 

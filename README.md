@@ -9,5 +9,4 @@ All you need to do is:
 - while avoid touching border and enemies
 
 To start: press any key
-
 To restart: press r

@@ -8,5 +8,5 @@ All you need to do is:
 - and try to collect coin and strawberry, 
 - while avoid touching border and enemies
 
-***To start: press any key
-***To restart: press r
+To start: press any key.
+To restart: press r.

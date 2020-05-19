@@ -61,6 +61,7 @@ Open source
 
 ## Acknowledgments
 
-* updating optimization
-* not really creative
-* not have the high score
+* Updating optimization
+* Updating the high score
+* Not really creative
+

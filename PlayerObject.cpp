@@ -94,6 +94,7 @@ bool PlayerObject::movePlayer(Map& map_data, SDL_Rect tmp)
 }
 
 
+//Reference(Part2): https://phattrienphanmem123az.com/lap-trinh-game-c-p2/game-cpp-phan-2-ky-thuat-load-nhan-vat-game.html
 void PlayerObject::checkMap(Map& map_data)
 {
 

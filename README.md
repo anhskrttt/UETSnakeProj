@@ -36,10 +36,7 @@ Contact me to get the zip file, so all you need to do is extracting file, findin
 
 ## Running the tests
 
-Check my youtube channel for the demo of the game:
-```
-At: https://www.youtube.com/watch?v=BpjX6KBRW_c
-```
+Check my youtube channel for the demo of the game: https://www.youtube.com/watch?v=BpjX6KBRW_c
 
 ## Features, Coding Style and Deployment
 

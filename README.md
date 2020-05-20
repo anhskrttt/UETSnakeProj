@@ -6,7 +6,7 @@ So I decided to make an interesting game Snake - yes, i mean, the typical one, t
 
 * [Lazy Foo' Tutorials](http://lazyfoo.net/tutorials/SDL/index.php) - Collision Dectection, Init the game's basic form
 * [phattrienphanmem123az](https://phattrienphanmem123az.com/lap-trinh-game-c-p2) - The Main Source as checking map, separating class code, clip spritesheets, ...
-* [How To Make A Game In C++ & SDL2 From Scratch!] (https://www.youtube.com/watch?v=QQzAHcojEKg&list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx) - A Tutorial from Let's Make Game, implementing on main.cpp
+* [How To Make A Game In C++ & SDL2 From Scratch!](https://www.youtube.com/watch?v=QQzAHcojEKg&list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx) - A Tutorial from Let's Make Game, implementing on main.cpp
 
 
 ## Getting Started

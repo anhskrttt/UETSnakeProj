@@ -17,7 +17,7 @@ This is a really simple game to play!
 - using your arrow keys, 
 - control a snake, 
 - try to collect coin and strawberry, 
-- while avoid touching border and enemies
+- avoid touching border and enemies
 - press r to replay
 
 ### Prerequisites

@@ -41,7 +41,7 @@ Check my youtube channel for the demo of the game:
 https://www.youtube.com/watch?v=BpjX6KBRW_c
 ```
 
-### Features, Coding Style and Deployment
+## Features, Coding Style and Deployment
 
 - A menu start and a menu end
 - Replay by pressing r

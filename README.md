@@ -89,7 +89,7 @@ Check my youtube channel for the demo of the game: https://www.youtube.com/watch
 
 ## Authors
 
-* **Anh Nguyet Duong** - *Initial work* - [Freelancer](https://github.com/duonanh195)
+* [**Anh Nguyet Duong**](https://github.com/duonanh195)
 
 ## License
 

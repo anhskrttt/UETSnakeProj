@@ -78,7 +78,7 @@ Check my youtube channel for the demo of the game: https://www.youtube.com/watch
 - main.cpp is easy to follow (init -> loadMedia -> (game-loop(handleEvent->update->render)) -> end)
 - Implementing inheritance, virtual function ()
 - Seperated files for different purposes
-- Utils.h storing: (preprocessor directive), (basic properties of the game (which are constant values)) and (functions that commonly used)
+- Utils.h storing: (***preprocessor directive***), (***basic properties of the game*** (which are constant values)) and (***functions that commonly used***)
 - (Resource File) storing resources in game (media, map, font)
 - Implementing lessons learnt: reading files (using fstream), using pointers (in order to save memory, optimize proj), using class, ...
 

@@ -20,9 +20,9 @@ __4. Replay: Press r to change status from endBackground(2) to startBackground(0
 
   * ![replay](https://user-images.githubusercontent.com/41201391/82917982-4c2eb500-9f9e-11ea-8e2f-2871c17b0ba2.JPG)
   
-__5. Change loadImage function of PlayerObject:__ 
-
-  * ![loadImage](https://user-images.githubusercontent.com/41201391/82918263-a891d480-9f9e-11ea-9fd0-e09086d0e439.JPG)
+__5. Change loadImage function of PlayerObject:__
+  * Before: ![LoadImageOld](https://user-images.githubusercontent.com/41201391/82922811-4b008680-9fa4-11ea-9b44-01fc638d383e.JPG) 
+  * After: ![loadImage](https://user-images.githubusercontent.com/41201391/82918263-a891d480-9f9e-11ea-9fd0-e09086d0e439.JPG)
   
 __6. free ThreatObjects used (the game object that inherits from BaseObject) :__
 

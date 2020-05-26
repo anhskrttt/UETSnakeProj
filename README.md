@@ -2,6 +2,34 @@
 
 So I decided to make an interesting game Snake - yes, i mean, the typical one, the "Snake", but then, there were a few problems that the snake's tails did't move, so here i'm introducing, the total new version of Snake : SNAKE-HEAD. Enjoy it, tadaaaa :>
 
+## **UPDATE** <Since 26/05/2020>
+__1. New README__ 
+
+__2. New comment:__ 
+
+  * ![cmt1](https://user-images.githubusercontent.com/41201391/82917002-01606d80-9f9d-11ea-8df7-2e042d9f29b3.JPG)
+  * ![cmt2](https://user-images.githubusercontent.com/41201391/82917139-366cc000-9f9d-11ea-90e2-9f209051b0c0.JPG)
+  * ![cmt3](https://user-images.githubusercontent.com/41201391/82917148-3967b080-9f9d-11ea-9fde-920c32fcf673.JPG)
+
+__3. New ending background (Press ~~any key~~ to restart -> Press _r_ to restart):__ 
+
+  * Before: ![OldendBackground](https://user-images.githubusercontent.com/41201391/82917764-096cdd00-9f9e-11ea-8adb-49b7d1367f7d.png)
+  * After: ![endBackground](https://user-images.githubusercontent.com/41201391/82917789-11c51800-9f9e-11ea-8081-69b508924c08.png)
+  
+__4. Replay: Press r to change status from endBackground(2) to startBackground(0)__ 
+
+  * ![replay](https://user-images.githubusercontent.com/41201391/82917982-4c2eb500-9f9e-11ea-8e2f-2871c17b0ba2.JPG)
+  
+__5. Change loadImage function of PlayerObject:__ 
+
+  * ![loadImage](https://user-images.githubusercontent.com/41201391/82918263-a891d480-9f9e-11ea-9fd0-e09086d0e439.JPG)
+  
+__6. free ThreatObject (inherit from BaseObject) used:__
+
+  * ![freeThreatObject](https://user-images.githubusercontent.com/41201391/82918407-decf5400-9f9e-11ea-8690-ce35d61c8b8d.JPG)
+  
+
+
 ## Reference Source
 
 * [Lazy Foo' Tutorials](http://lazyfoo.net/tutorials/SDL/index.php) - Collision Dectection, Init the game's basic form

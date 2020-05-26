@@ -24,7 +24,7 @@ __5. Change loadImage function of PlayerObject:__
 
   * ![loadImage](https://user-images.githubusercontent.com/41201391/82918263-a891d480-9f9e-11ea-9fd0-e09086d0e439.JPG)
   
-__6. free ThreatObject (inherit from BaseObject) used:__
+__6. free ThreatObjects used (the game object that inherits from BaseObject) :__
 
   * ![freeThreatObject](https://user-images.githubusercontent.com/41201391/82918407-decf5400-9f9e-11ea-8690-ce35d61c8b8d.JPG)
   

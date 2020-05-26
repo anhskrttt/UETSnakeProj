@@ -36,6 +36,21 @@ __6. free ThreatObjects used (the game object that inherits from BaseObject) :__
 * [phattrienphanmem123az](https://phattrienphanmem123az.com/lap-trinh-game-c-p2) - The Main Source as checking map, separating class code, clipping spritesheets, ...
 * [How To Make A Game In C++ & SDL2 From Scratch!](https://www.youtube.com/watch?v=QQzAHcojEKg&list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx) - A Tutorial from Let's Make Game, implementing on main.cpp
 
+## Features, Coding Style and Deployment
+
+- A ***menu start*** and a ***menu end***
+- Press any key to start. ***Replay*** by pressing r
+- Different ***music in the end***
+- ***Effect sound***: collect coin, touch enemies
+- Enemies choose ***random directions*** ()
+- Count ***point***
+- Different spritesheets for different directions (left, right)
+- main.cpp is easy to follow ***(init -> loadMedia -> (game-loop(handleEvent->update->render)) -> end)***
+- Implementing inheritance, virtual function ()
+- ***Seperated files*** for different purposes
+- Utils.h storing: (***preprocessor directive***), (***basic properties of the game*** (which are constant values)) and (***functions that commonly used***)
+- (***Resource File***) storing resources in game (media, map, font)
+- Implementing lessons learnt: reading files (using ***fstream***), using ***pointers*** (in order to save memory, optimize proj), using ***class***, ...
 
 ## Getting Started
 
@@ -65,22 +80,6 @@ Contact me to get the zip file, so all you need to do is extracting file, findin
 ## Running the tests
 
 Check my youtube channel for the demo of the game: https://www.youtube.com/watch?v=BpjX6KBRW_c
-
-## Features, Coding Style and Deployment
-
-- A ***menu start*** and a ***menu end***
-- Press any key to start. ***Replay*** by pressing r
-- Different ***music in the end***
-- ***Effect sound***: collect coin, touch enemies
-- Enemies choose ***random directions*** ()
-- Count ***point***
-- Different spritesheets for different directions (left, right)
-- main.cpp is easy to follow ***(init -> loadMedia -> (game-loop(handleEvent->update->render)) -> end)***
-- Implementing inheritance, virtual function ()
-- ***Seperated files*** for different purposes
-- Utils.h storing: (***preprocessor directive***), (***basic properties of the game*** (which are constant values)) and (***functions that commonly used***)
-- (***Resource File***) storing resources in game (media, map, font)
-- Implementing lessons learnt: reading files (using ***fstream***), using ***pointers*** (in order to save memory, optimize proj), using ***class***, ...
 
 ## Built With
 

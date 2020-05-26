@@ -69,7 +69,7 @@ Check my youtube channel for the demo of the game: https://www.youtube.com/watch
 ## Features, Coding Style and Deployment
 
 - A menu start and a menu end
-- Replay by pressing r
+- Press any key to start. Replay by pressing r
 - Different music in the end
 - Effect sound: collect coin, touch enemies
 - Enemies choose random directions ()

@@ -73,10 +73,6 @@ SDL version 2.0.12 including:
 - SDL2_ttf
 ```
 
-### Installing
-
-Contact me to get the zip file, so all you need to do is extracting file, finding the .exe and start enjoying your game :D
-
 ## Running the tests
 
 Check my youtube channel for the demo of the game: https://www.youtube.com/watch?v=BpjX6KBRW_c

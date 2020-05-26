@@ -68,19 +68,19 @@ Check my youtube channel for the demo of the game: https://www.youtube.com/watch
 
 ## Features, Coding Style and Deployment
 
-- A menu start and a menu end
-- Press any key to start. Replay by pressing r
-- Different music in the end
-- Effect sound: collect coin, touch enemies
-- Enemies choose random directions ()
-- Count point
+- A ***menu start*** and a ***menu end***
+- Press any key to start. ***Replay*** by pressing r
+- Different ***music in the end***
+- ***Effect sound***: collect coin, touch enemies
+- Enemies choose ***random directions*** ()
+- Count ***point***
 - Different spritesheets for different directions (left, right)
-- main.cpp is easy to follow (init -> loadMedia -> (game-loop(handleEvent->update->render)) -> end)
+- main.cpp is easy to follow ***(init -> loadMedia -> (game-loop(handleEvent->update->render)) -> end)***
 - Implementing inheritance, virtual function ()
-- Seperated files for different purposes
+- ***Seperated files*** for different purposes
 - Utils.h storing: (***preprocessor directive***), (***basic properties of the game*** (which are constant values)) and (***functions that commonly used***)
-- (Resource File) storing resources in game (media, map, font)
-- Implementing lessons learnt: reading files (using fstream), using pointers (in order to save memory, optimize proj), using class, ...
+- (***Resource File***) storing resources in game (media, map, font)
+- Implementing lessons learnt: reading files (using ***fstream***), using ***pointers*** (in order to save memory, optimize proj), using ***class***, ...
 
 ## Built With
 
